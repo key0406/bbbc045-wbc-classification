@@ -1,0 +1,10 @@
+torch==2.7.0
+torchvision==0.22.0
+numpy==2.2.6
+scipy==1.14.1
+pandas
+matplotlib
+tifffile
+scikit-learn
+tqdm
+jupyter
